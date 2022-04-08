@@ -1,0 +1,630 @@
+[
+    {
+        "name": "Строительство домов и коттеджей",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_domov_kottedzhej/"
+    },
+    {
+        "name": "Ремонт квартир",
+        "address": "https://www.remontnik.ru/boards/remont_kvartiry/"
+    },
+    {
+        "name": "Ремонт кухни",
+        "address": "https://www.remontnik.ru/boards/remont_kuhni/"
+    },
+    {
+        "name": "Кладка печей и каминов",
+        "address": "https://www.remontnik.ru/boards/kladka_pechej_i_kaminov/"
+    },
+    {
+        "name": "Ремонт ванной комнаты",
+        "address": "https://www.remontnik.ru/boards/remont_vannoj/"
+    },
+    {
+        "name": "Ремонт офисов и нежилых помещений",
+        "address": "https://www.remontnik.ru/boards/remont_ofisa_nezhilyh_pomeschenii/"
+    },
+    {
+        "name": "Ремонт туалета",
+        "address": "https://www.remontnik.ru/boards/remont_tualeta/"
+    },
+    {
+        "name": "Строительство бань и саун",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_ban_i_saun/"
+    },
+    {
+        "name": "Строительство бассейнов",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_bassejnov/"
+    },
+    {
+        "name": "Строительство гаражей",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_garazhej/"
+    },
+    {
+        "name": "Остекление окон, балконов",
+        "address": "https://www.remontnik.ru/boards/osteklenie_okna_balkony/"
+    },
+    {
+        "name": "Остекление окон, балконов",
+        "address": "https://www.remontnik.ru/boards/osteklenie_okna_balkony/"
+    },
+    {
+        "name": "Двери",
+        "address": "https://www.remontnik.ru/boards/dveri/"
+    },
+    {
+        "name": "Кровельные работы",
+        "address": "https://www.remontnik.ru/boards/krovelnye_raboty/"
+    },
+    {
+        "name": "Алмазная резка и сверление",
+        "address": "https://www.remontnik.ru/boards/almaznaya_rezka_i_sverlenie/"
+    },
+    {
+        "name": "Бетонные работы",
+        "address": "https://www.remontnik.ru/boards/betonnye_raboty/"
+    },
+    {
+        "name": "Бурение",
+        "address": "https://www.remontnik.ru/boards/burenie/"
+    },
+    {
+        "name": "Дорожное строительство",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_dorog/"
+    },
+    {
+        "name": "Заборы и ограждения",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_zaborov/"
+    },
+    {
+        "name": "Земляные работы",
+        "address": "https://www.remontnik.ru/boards/zemljanye_raboty/"
+    },
+    {
+        "name": "Изоляционные работы",
+        "address": "https://www.remontnik.ru/boards/izoljacionnye_raboty/"
+    },
+    {
+        "name": "Кладочные работы",
+        "address": "https://www.remontnik.ru/boards/uslugi_kamenschikov/"
+    },
+    {
+        "name": "Ковка и литье",
+        "address": "https://www.remontnik.ru/boards/hudozhestvennaja_kovka_i_lite/"
+    },
+    {
+        "name": "Лестницы",
+        "address": "https://www.remontnik.ru/boards/izgotovlenie_lestnic/"
+    },
+    {
+        "name": "Маркизы и навесы",
+        "address": "https://www.remontnik.ru/boards/markizy_i_navesy/"
+    },
+    {
+        "name": "Металлоконструкции",
+        "address": "https://www.remontnik.ru/boards/izgotovlenie_i_montazh_metallokonstrukcij/"
+    },
+    {
+        "name": "Рольставни и секционные ворота",
+        "address": "https://www.remontnik.ru/boards/rolstavni_rollety_sekcionnye_vorota/"
+    },
+    {
+        "name": "Сварочные работы",
+        "address": "https://www.remontnik.ru/boards/svarochnye_raboty/"
+    },
+    {
+        "name": "Слесарные работы",
+        "address": "https://www.remontnik.ru/boards/slesarnye_raboty/"
+    },
+    {
+        "name": "Снос и демонтаж",
+        "address": "https://www.remontnik.ru/boards/snos-i-demontazh/"
+    },
+    {
+        "name": "Срубы",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_srubov/"
+    },
+    {
+        "name": "Столярные и плотницкие работы",
+        "address": "https://www.remontnik.ru/boards/stoljarnye_i_plotnickie_raboty/"
+    },
+    {
+        "name": "Фасадные работы",
+        "address": "https://www.remontnik.ru/boards/fasadnye_raboty/"
+    },
+    {
+        "name": "Фундамент",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_fundamenta/"
+    },
+    {
+        "name": "Штукатурно-малярные работы",
+        "address": "https://www.remontnik.ru/boards/shtukaturno_maljarnye_raboty/"
+    },
+    {
+        "name": "Штукатурно-малярные работы",
+        "address": "https://www.remontnik.ru/boards/shtukaturno_maljarnye_raboty/"
+    },
+    {
+        "name": "Обойные работы",
+        "address": "https://www.remontnik.ru/boards/obojnye-raboty/"
+    },
+    {
+        "name": "Плиточные работы",
+        "address": "https://www.remontnik.ru/boards/plitochnye_raboty/"
+    },
+    {
+        "name": "Гипсокартонные работы",
+        "address": "https://www.remontnik.ru/boards/gipsokartonnye-raboty/"
+    },
+    {
+        "name": "Лепнина",
+        "address": "https://www.remontnik.ru/boards/izgotovlenie_i_montazh_lepniny/"
+    },
+    {
+        "name": "Мозаичные работы",
+        "address": "https://www.remontnik.ru/boards/mozaichnye_raboty/"
+    },
+    {
+        "name": "Напольные покрытия",
+        "address": "https://www.remontnik.ru/boards/napolnye_pokrytiya/"
+    },
+    {
+        "name": "Потолки",
+        "address": "https://www.remontnik.ru/boards/montazh_potolkov/"
+    },
+    {
+        "name": "Промышленные полы",
+        "address": "https://www.remontnik.ru/boards/ustrojstvo_promyshlennyh_polov/"
+    },
+    {
+        "name": "Роспись стен",
+        "address": "https://www.remontnik.ru/boards/hudozhestvennaja_rospis_sten/"
+    },
+    {
+        "name": "Стеновые панели",
+        "address": "https://www.remontnik.ru/boards/montazh_stenovyh_panelej/"
+    },
+    {
+        "name": "Стяжка пола",
+        "address": "https://www.remontnik.ru/boards/ustrojstvo_polov_stjazhka_vyravnivanie/"
+    },
+    {
+        "name": "Водоснабжение и канализация",
+        "address": "https://www.remontnik.ru/boards/vodosnabzhenie-i-kanalizatsiia/"
+    },
+    {
+        "name": "Водоснабжение и канализация",
+        "address": "https://www.remontnik.ru/boards/vodosnabzhenie-i-kanalizatsiia/"
+    },
+    {
+        "name": "Электромонтажные работы",
+        "address": "https://www.remontnik.ru/boards/elektromontazhnye_raboty/"
+    },
+    {
+        "name": "Сантехнические работы",
+        "address": "https://www.remontnik.ru/boards/santehnicheskie_raboty/"
+    },
+    {
+        "name": "Альтернативные источники энергии",
+        "address": "https://www.remontnik.ru/boards/alternativnye_istochniki_energii/"
+    },
+    {
+        "name": "Газификация",
+        "address": "https://www.remontnik.ru/boards/gazifikacija/"
+    },
+    {
+        "name": "Кондиционирование и вентиляция",
+        "address": "https://www.remontnik.ru/boards/kondicionirovanie_i_ventilyaciya/"
+    },
+    {
+        "name": "Лифты и эскалаторы",
+        "address": "https://www.remontnik.ru/boards/lifty_i_eskalatory/"
+    },
+    {
+        "name": "Отопление",
+        "address": "https://www.remontnik.ru/boards/otoplenie/"
+    },
+    {
+        "name": "Охранные системы и контроль доступа",
+        "address": "https://www.remontnik.ru/boards/ohrannye_sistemy_i_kontrol_dostupa/"
+    },
+    {
+        "name": "Пожарные сигнализации",
+        "address": "https://www.remontnik.ru/boards/montazh_sistem_pozharnoj_bezopasnosti/"
+    },
+    {
+        "name": "Системы видеонаблюдения",
+        "address": "https://www.remontnik.ru/boards/montazh_sistem_videonabljudenija_i_ohrany/"
+    },
+    {
+        "name": "Системы пожаротушения",
+        "address": "https://www.remontnik.ru/boards/sistemy_pozharotusheniya/"
+    },
+    {
+        "name": "Слаботочные системы",
+        "address": "https://www.remontnik.ru/boards/ustanovka_antenn_podkljuchenie_telefona_interneta/"
+    },
+    {
+        "name": "Теплый пол",
+        "address": "https://www.remontnik.ru/boards/montazh_teplogo_pola/"
+    },
+    {
+        "name": "Трубопроводы",
+        "address": "https://www.remontnik.ru/boards/montazh_truboprovodov/"
+    },
+    {
+        "name": "Умный дом",
+        "address": "https://www.remontnik.ru/boards/sistemy_umnyj_dom/"
+    },
+    {
+        "name": "Мастер на час",
+        "address": "https://www.remontnik.ru/boards/master_na_chas/"
+    },
+    {
+        "name": "Установка бытовой техники",
+        "address": "https://www.remontnik.ru/boards/podkljuchenie_bytovoj_tehniki/"
+    },
+    {
+        "name": "Установка и вскрытие замков",
+        "address": "https://www.remontnik.ru/boards/ustanovka_i_zamena_zamkov/"
+    },
+    {
+        "name": "Уборка помещений, клининг",
+        "address": "https://www.remontnik.ru/boards/klining_uborka_pomeschenij/"
+    },
+    {
+        "name": "Чехлы и покрывала",
+        "address": "https://www.remontnik.ru/boards/chehly_i_pokryvala/"
+    },
+    {
+        "name": "Эмалировка ванн",
+        "address": "https://www.remontnik.ru/boards/restavracija_vann_emalirovka_vkladyshi/"
+    },
+    {
+        "name": "Ремонт стиральной машины",
+        "address": "https://www.remontnik.ru/boards/remont_stiralnoi_mashiny_cat/"
+    },
+    {
+        "name": "Ремонт холодильника",
+        "address": "https://www.remontnik.ru/boards/remont_kholodilnika_cat/"
+    },
+    {
+        "name": "Ремонт кондиционера",
+        "address": "https://www.remontnik.ru/boards/remont_konditsionera_cat/"
+    },
+    {
+        "name": "Ремонт пылесоса",
+        "address": "https://www.remontnik.ru/boards/remont_pylesosa_cat/"
+    },
+    {
+        "name": "Ремонт посудомоечной машины",
+        "address": "https://www.remontnik.ru/boards/remont_posudomoechnoi_mashiny_cat/"
+    },
+    {
+        "name": "Ремонт кофемашины",
+        "address": "https://www.remontnik.ru/boards/remont_kofemashiny_cat/"
+    },
+    {
+        "name": "Ремонт швейной машины",
+        "address": "https://www.remontnik.ru/boards/remont_shveinoi_mashiny_cat/"
+    },
+    {
+        "name": "Ремонт газовой колонки",
+        "address": "https://www.remontnik.ru/boards/remont_gazovoi_kolonki_cat/"
+    },
+    {
+        "name": "Ремонт газовой плиты",
+        "address": "https://www.remontnik.ru/boards/remont_gazovoi_plity_cat/"
+    },
+    {
+        "name": "Ремонт духового шкафа",
+        "address": "https://www.remontnik.ru/boards/remont_dukhovogo_shkafa_cat/"
+    },
+    {
+        "name": "Ремонт прочей бытовой техники",
+        "address": "https://www.remontnik.ru/boards/remont_prochei_bytovoi_tekhniki_cat/"
+    },
+    {
+        "name": "Ремонт электроинструмента",
+        "address": "https://www.remontnik.ru/boards/remont_elektroinstrumenta/"
+    },
+    {
+        "name": "Ремонт бензоинструмента",
+        "address": "https://www.remontnik.ru/boards/remont_benzoinstrumenta/"
+    },
+    {
+        "name": "Ремонт садовой техники",
+        "address": "https://www.remontnik.ru/boards/remont_sadovoi_tekhniki/"
+    },
+    {
+        "name": "Ремонт снегоуборочной техники",
+        "address": "https://www.remontnik.ru/boards/remont_snegouborochnoi_tekhniki/"
+    },
+    {
+        "name": "Ландшафтный дизайн",
+        "address": "https://www.remontnik.ru/boards/landshaftnyj_dizajn/"
+    },
+    {
+        "name": "Уличное освещение",
+        "address": "https://www.remontnik.ru/boards/naruzhnoe_osveschenie/"
+    },
+    {
+        "name": "Озеленение",
+        "address": "https://www.remontnik.ru/boards/ozelenenie/"
+    },
+    {
+        "name": "Искусственные водоемы",
+        "address": "https://www.remontnik.ru/boards/iskusstvennye_vodoemy_i_prudy/"
+    },
+    {
+        "name": "Малые архитектурные формы",
+        "address": "https://www.remontnik.ru/boards/izgotovlenie_sadovoj_skulptury/"
+    },
+    {
+        "name": "Фонтаны",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_fontanov/"
+    },
+    {
+        "name": "Дизайн интерьера",
+        "address": "https://www.remontnik.ru/boards/dizajn_interera/"
+    },
+    {
+        "name": "Инженерное проектирование",
+        "address": "https://www.remontnik.ru/boards/inzhenernoe_proektirovanie/"
+    },
+    {
+        "name": "Геодезические работы",
+        "address": "https://www.remontnik.ru/boards/geodezicheskie_raboty/"
+    },
+    {
+        "name": "Геологические изыскания",
+        "address": "https://www.remontnik.ru/boards/geologicheskie_izyskaniya/"
+    },
+    {
+        "name": "Межевание и кадастр",
+        "address": "https://www.remontnik.ru/boards/mezhevanie_i_kadastr/"
+    },
+    {
+        "name": "Проектирование зданий",
+        "address": "https://www.remontnik.ru/boards/proektirovanie_zhilyh_domov/"
+    },
+    {
+        "name": "Сметные работы",
+        "address": "https://www.remontnik.ru/boards/smetnye_raboty/"
+    },
+    {
+        "name": "Согласование перепланировок",
+        "address": "https://www.remontnik.ru/boards/pereplanirovka_i_soglasovanie/"
+    },
+    {
+        "name": "Технический надзор",
+        "address": "https://www.remontnik.ru/boards/tehnicheskij_nadzor/"
+    },
+    {
+        "name": "Вывоз мусора",
+        "address": "https://www.remontnik.ru/boards/vyvoz_musora_i_snega/"
+    },
+    {
+        "name": "Услуги перевозки, доставки",
+        "address": "https://www.remontnik.ru/boards/uslugi_perevozki_dostavki/"
+    },
+    {
+        "name": "Уборка территорий",
+        "address": "https://www.remontnik.ru/boards/uborka_territorij/"
+    },
+    {
+        "name": "Аренда оборудования",
+        "address": "https://www.remontnik.ru/boards/arenda_oborudovanija/"
+    },
+    {
+        "name": "Аренда строительной техники",
+        "address": "https://www.remontnik.ru/boards/arenda_stroitelnoj_tehniki/"
+    },
+    {
+        "name": "Высотные работы",
+        "address": "https://www.remontnik.ru/boards/vysotnye_raboty_promyshlennyj_alpinizm/"
+    },
+    {
+        "name": "Обслуживание септиков",
+        "address": "https://www.remontnik.ru/boards/obsluzhivanie_septikov/"
+    },
+    {
+        "name": "Мебель",
+        "address": "https://www.remontnik.ru/boards/izgotovlenie_i_sborka_mebeli/"
+    },
+    {
+        "name": "Шторы и карнизы",
+        "address": "https://www.remontnik.ru/boards/poshiv_shtor_i_tekstilnyj_dizajn/"
+    },
+    {
+        "name": "Офисные перегородки",
+        "address": "https://www.remontnik.ru/boards/stroitelstvo_sten_i_peregorodok/"
+    },
+    {
+        "name": "Декорирование интерьеров",
+        "address": "https://www.remontnik.ru/boards/dekorirovanie_intererov/"
+    },
+    {
+        "name": "Жалюзи",
+        "address": "https://www.remontnik.ru/boards/zhaljuzi/"
+    },
+    {
+        "name": "Фитодизайн",
+        "address": "https://www.remontnik.ru/boards/fitodizajn/"
+    },
+    {
+        "name": "Ремонт двигателя",
+        "address": "https://www.remontnik.ru/boards/remont_dvigatelia/"
+    },
+    {
+        "name": "Сход-развал",
+        "address": "https://www.remontnik.ru/boards/skhod_razval/"
+    },
+    {
+        "name": "Шиномонтаж",
+        "address": "https://www.remontnik.ru/boards/shinomontazh/"
+    },
+    {
+        "name": "Диагностика и ремонт автомобиля",
+        "address": "https://www.remontnik.ru/boards/diagnostika_i_remont_avtomobilia/"
+    },
+    {
+        "name": "Автосварка",
+        "address": "https://www.remontnik.ru/boards/avtosvarka/"
+    },
+    {
+        "name": "Автосигнализация",
+        "address": "https://www.remontnik.ru/boards/avtosignalizatsiia/"
+    },
+    {
+        "name": "Автостекла",
+        "address": "https://www.remontnik.ru/boards/avtostekla/"
+    },
+    {
+        "name": "Кондиционеры и отопление",
+        "address": "https://www.remontnik.ru/boards/konditsionery_i_otoplenie/"
+    },
+    {
+        "name": "Кузовной ремонт",
+        "address": "https://www.remontnik.ru/boards/kuzovnoi_remont/"
+    },
+    {
+        "name": "Мойка и уход за авто",
+        "address": "https://www.remontnik.ru/boards/moika_i_ukhod_za_avto/"
+    },
+    {
+        "name": "Парктроники",
+        "address": "https://www.remontnik.ru/boards/parktroniki/"
+    },
+    {
+        "name": "Перетяжка салона",
+        "address": "https://www.remontnik.ru/boards/peretiazhka_salona/"
+    },
+    {
+        "name": "Покраска",
+        "address": "https://www.remontnik.ru/boards/pokraska/"
+    },
+    {
+        "name": "Ремонт АКПП",
+        "address": "https://www.remontnik.ru/boards/remont_akpp/"
+    },
+    {
+        "name": "Ремонт выхлопной системы",
+        "address": "https://www.remontnik.ru/boards/remont_vykhlopnoi_sistemy/"
+    },
+    {
+        "name": "Ремонт МКПП",
+        "address": "https://www.remontnik.ru/boards/remont_mkpp/"
+    },
+    {
+        "name": "Ремонт мототехники",
+        "address": "https://www.remontnik.ru/boards/remont_mototekhniki/"
+    },
+    {
+        "name": "Ремонт подвески",
+        "address": "https://www.remontnik.ru/boards/remont_podveski/"
+    },
+    {
+        "name": "Ремонт рулевого управления",
+        "address": "https://www.remontnik.ru/boards/remont_rulevogo_upravleniia/"
+    },
+    {
+        "name": "Ремонт топливной системы",
+        "address": "https://www.remontnik.ru/boards/remont_toplivnoi_sistemy/"
+    },
+    {
+        "name": "Ремонт тормозной системы",
+        "address": "https://www.remontnik.ru/boards/remont_tormoznoi_sistemy/"
+    },
+    {
+        "name": "Техпомощь на дороге",
+        "address": "https://www.remontnik.ru/boards/tekhpomoshch_na_doroge/"
+    },
+    {
+        "name": "Тонировка и автовинил",
+        "address": "https://www.remontnik.ru/boards/tonirovka_i_avtovinil/"
+    },
+    {
+        "name": "Трансмиссия",
+        "address": "https://www.remontnik.ru/boards/transmissiia/"
+    },
+    {
+        "name": "Тюнинг и допоборудование",
+        "address": "https://www.remontnik.ru/boards/tiuning_i_dopoborudovanie/"
+    },
+    {
+        "name": "Шумоизоляция автомобиля",
+        "address": "https://www.remontnik.ru/boards/shumoizoliatsiia_avtomobilia/"
+    },
+    {
+        "name": "Электрооборудование",
+        "address": "https://www.remontnik.ru/boards/elektrooborudovanie/"
+    },
+    {
+        "name": "Ремонт телефонов",
+        "address": "https://www.remontnik.ru/boards/remont_telefonov/"
+    },
+    {
+        "name": "Ремонт телевизоров",
+        "address": "https://www.remontnik.ru/boards/remont_televizorov/"
+    },
+    {
+        "name": "Ремонт компьютеров",
+        "address": "https://www.remontnik.ru/boards/remont_kompiuterov/"
+    },
+    {
+        "name": "Ремонт другой электроники",
+        "address": "https://www.remontnik.ru/boards/remont_drugoi_elektroniki/"
+    },
+    {
+        "name": "Ремонт игровых приставок",
+        "address": "https://www.remontnik.ru/boards/remont_igrovykh_pristavok/"
+    },
+    {
+        "name": "Ремонт ноутбуков",
+        "address": "https://www.remontnik.ru/boards/remont_noutbukov/"
+    },
+    {
+        "name": "Ремонт оргтехники",
+        "address": "https://www.remontnik.ru/boards/remont_orgtekhniki/"
+    },
+    {
+        "name": "Ремонт планшетов",
+        "address": "https://www.remontnik.ru/boards/remont_planshetov/"
+    },
+    {
+        "name": "Ремонт принтеров",
+        "address": "https://www.remontnik.ru/boards/remont_printerov/"
+    },
+    {
+        "name": "Ремонт проекторов",
+        "address": "https://www.remontnik.ru/boards/remont_proektorov/"
+    },
+    {
+        "name": "Ремонт системы охлаждения",
+        "address": "https://www.remontnik.ru/boards/remont_sistemy_okhlazhdeniia/"
+    },
+    {
+        "name": "Ремонт спутникового ТВ",
+        "address": "https://www.remontnik.ru/boards/remont_sputnikovogo_tv/"
+    },
+    {
+        "name": "Ремонт ТВ-приставок",
+        "address": "https://www.remontnik.ru/boards/remont_tv_pristavok/"
+    },
+    {
+        "name": "Ремонт умных часов",
+        "address": "https://www.remontnik.ru/boards/remont_umnykh_chasov/"
+    },
+    {
+        "name": "Ремонт фото и видео техники",
+        "address": "https://www.remontnik.ru/boards/remont_foto_i_video_tekhniki/"
+    },
+    {
+        "name": "Ремонт электронных книг",
+        "address": "https://www.remontnik.ru/boards/remont_elektronnykh_knig/"
+    },
+    {
+        "name": "Вакансии",
+        "address": "https://www.remontnik.ru/boards/vakansiya/"
+    }
+]
