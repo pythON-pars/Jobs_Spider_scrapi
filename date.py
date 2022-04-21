@@ -4,7 +4,6 @@ import csv
 import json
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
-from threading import Thread
 
 class Strou:
     def __init__(self):
@@ -53,8 +52,8 @@ class Strou:
             src = json.load(file)
 
         count = 0
-        sc = 3520 # 1178
-        c = 52 # Газификация  Страница №1 https://www.remontnik.ru/boards/gazifikacija/?page=1
+        sc = 0
+        c = 0
         while True:
             count += 1
             sc += 1
@@ -73,7 +72,7 @@ class Strou:
                 bimo = pars_data(date_time, api)
 
                 if bimo == 'NULL':
-                    print(bimo)
+                    # print(bimo)
                     count = 0
                     c += 1
                     continue
