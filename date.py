@@ -117,7 +117,7 @@ class Strou:
             wr = csv.writer(file)
             wr.writerows(data)
 
-        for i in range(560, 4604):
+        for i in range(0, 4604):
             try:
                 with open(f'fui_data/ad_carts/{i}_center_data_address_carts.json', encoding='utf-8') as file:
                     src = json.load(file)
