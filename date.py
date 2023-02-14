@@ -5,6 +5,8 @@ import json
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 
+# This code was written for Windows.
+
 class Strou:
     def __init__(self):
         s = UserAgent()
